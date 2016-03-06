@@ -1,0 +1,29 @@
+<!-- First Normalize the layout -->
+html, body {
+	margin: 0;
+	padding: 0;
+	border: none;
+	background: white;
+}
+<!-- Default Body Color -->
+body {
+	color: #993333;
+	font-family: , Arial, sans-serif;
+}
+#header {
+	background-color: transparent;
+	background-image: url(../images/background-1024-490.jpg);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: left top;
+}
+p {
+	color: gray;
+	margin-left: 20px;
+	martin-right: 20px;
+}
+#footer p {
+	color: black;
+	font-size: small;
+	text-align: center;
+}
