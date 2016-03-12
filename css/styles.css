@@ -17,6 +17,17 @@ body {
 	background-attachment: scroll;
 	background-position: left top;
 }
+#sitelinks {
+	color: black;
+	font-size: x-large;
+}
+.spanFormat {
+  text-align: left;
+  display: table-cell;
+  min-width: 10px;
+  padding-right: 10px;
+}
+
 p {
 	color: gray;
 	margin-left: 20px;
