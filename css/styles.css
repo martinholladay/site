@@ -17,21 +17,24 @@ body {
 	background-attachment: scroll;
 	background-position: left top;
 }
-#sitelinks {
-	color: black;
-	font-size: x-large;
-}
 .spanFormat {
   text-align: left;
   display: table-cell;
   min-width: 10px;
   padding-right: 10px;
 }
-
+h1 {
+	color: black;
+}
+h2 {
+	color: blue;
+	margin-left: 20px;
+	margin-right: 20px;
+}
 p {
 	color: gray;
 	margin-left: 20px;
-	martin-right: 20px;
+	margin-right: 20px;
 }
 #footer p {
 	color: black;
